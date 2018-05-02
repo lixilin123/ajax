@@ -1,8 +1,9 @@
 # ajax
-### 1.简介
-本仓库封装了ajax，避免项目中每次用到ajax的时候都去引入zepto.js、jquery.js等库；
-### 2.使用方法
-1. 安装
-- `ajax.js`文件没有发`npm`包，建议直接复制到自己创建的js文件中；
-2. 引入
-- 此文件采用ES6的 `export default` 方式导出，故引入的时候可以根据自己的喜好，来选取对应的名字，例如：`import $ from 'ajax.js'` 或 `import ajax from 'ajax.js'`
+> [中文文档](https://github.com/lixilin123/ajax)
+### 1 Introduction
+This is a github repository that simply encapsulates ajax, avoiding the need to import zepto.js, jquery.js, and other libraries every time ajax is used in the project;
+### 2. Usage
+1. Installation
+- The `ajax.js` file does not have the `npm` package. It is recommended that you copy it directly to the js file you created;
+2. Introduction
+- This file is exported using ES6 `export default` method. Therefore, when importing, you can select the corresponding name according to your preferences. For example: `import $ from 'ajax.js'` or `import ajax from 'ajax.js'`
