@@ -1,5 +1,5 @@
 # ajax
-> [中文文档](https://github.com/lixilin123/ajax/blob/master/README-zh.md)
+> [中文文档](https://github.com/lixilin123/ajax/blob/master/REANME-zh.md)
 ### 1 Introduction
 This is a github repository that simply encapsulates ajax, avoiding the need to import zepto.js, jquery.js, and other libraries every time ajax is used in the project;
 ### 2. Usage
